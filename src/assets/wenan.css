@@ -1,0 +1,78 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.pic {
+    padding-top: 0.27rem;
+    padding-left: 0.2rem;
+    padding-right: 0.16rem;
+}
+
+.pic .content {
+    font-size: 0.14rem;
+    line-height: 0.24rem;
+    color: #0E193A;
+
+    margin: 0.3rem 0;
+    letter-spacing: 0.3px;
+}
+
+.pic .title {
+    font-size: 0.18rem;
+
+    color: #000D00;
+    letter-spacing: 0.3px;
+    line-height: 0.24rem;
+    margin: 0.18rem 0;
+}
+
+
+
+h3 {
+    /* color: rgb(230, 46, 37);
+    text-align: center; */
+    font-size: 0.32rem;
+    margin: 0;
+    line-height: 0.32rem;
+    color: #0E193A;
+    font-weight: bold;
+}
+
+p {
+    margin: 0.26rem 0 ;
+    font-size: 0.14rem;
+    letter-spacing: 0.3px;
+    line-height: 0.2rem;
+    color: #0E193A;
+
+}
+
+.mtop {
+    margin-top: .5rem;
+}
+
+.pic table {
+    margin-top: 0.1rem;
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.pic table td {
+    border: 1px solid black;
+    color: #0E193A;
+    text-align: center;
+    font-size: 0.16rem;
+    line-height: 0.3rem;
+}
+
+.pic table .z {
+    width: 20%;
+    /* line-height: 0.65rem;; */
+}
+
+img {
+    width: 100%;
+}
